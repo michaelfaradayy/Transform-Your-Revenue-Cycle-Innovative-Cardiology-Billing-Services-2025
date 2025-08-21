@@ -33,16 +33,4 @@ GitHub provides powerful tools for **version control, collaboration, automation,
 
 ---
 
-## 📦 Getting Started
 
-1. **Create an Account**  
-   Sign up at [GitHub.com](https://github.com/).
-
-2. **Create a New Repository**  
-   ```bash
-   git init
-   git add .
-   git commit -m "First commit"
-   git branch -M main
-   git remote add origin https://github.com/username/repository.git
-   git push -u origin main
